@@ -13,14 +13,15 @@ Consigli del giorno:
 
 Risoluzione
 
-Racolta logica:
+Risoluzione logica:
 - [ ] Creare un ciclo for dove "i" avrà valore 1 e si ripeterà fino ad essere pari a 100 quindi <= 100 e dire di stampare "i"
 - [ ] Creare condizione con if dove se i è divisibile per 3 allora stampiamo "Fizz"
 - [ ] Creare condizione con if dove se i è divisibile per 5 allora stampiamo "Buzz"
-- [ ] Creare condizione con if dove se i è divisibile per 3 and 5 allora stampiamo FizzBuzz.
+- [ ] Creare condizione con if dove se i è divisibile per 3 and 5 allora stampiamo "FizzBuzz".
+
 
 Bug riscontrati: 
--Se creamo delle condizioni da cui ci aspettiamo solo valori "true" allora per il numero che avrà entrambe le condizioni "true" allora stamperà sia "Fizz" (perchè è divisibile per 3) sia Buzz (perchè è divisibile per 5) sia "FizzBuzz" (perchè soddisfa tutte le condizioni). Quindi non bisogna solo dire al numero che è divisibile per 3 ma anche che non sia divisibile per 5 e viceversa in modo da poter avere anche una condizione "false" che ci ritorna un valore diverso.
--Per poter stampare i, infatti, gli abbiamo dato una condizione negativa, cioè che non deve essere divisibile nè per 3 nè per 5. 
+- Se creiamo delle condizioni da cui ci aspettiamo solo valori "true" allora per il numero che avrà entrambe le condizioni "true" allora stamperà sia "Fizz" (perchè è divisibile per 3) sia Buzz (perchè è divisibile per 5) sia "FizzBuzz" (perchè soddisfa tutte le condizioni). Quindi non bisogna solo dire al numero che è divisibile per 3 ma anche che non sia divisibile per 5 e viceversa in modo da poter avere anche una condizione "false" che ci ritorna un valore diverso.
+- Per poter stampare "i", infatti, gli abbiamo dato una condizione negativa, cioè che non deve essere divisibile nè per 3 nè per 5. 
 
 
